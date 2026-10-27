@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://example.github.io/todo-quasar-app/sitemap.xml
